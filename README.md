@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🛠️ I’m currently working on Endeavor México as a Data & Analytics Engineer Fellow.
+- 📘 I’m a rising Junior majoring in Statistics & Data Science at Yale University.
+- 💡 I'm interested in learning about Applied Machine Learning.
+- 📫 How to reach me: xuliowen605@gmail.com
+
 <!--
 **owenxuli/owenxuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
