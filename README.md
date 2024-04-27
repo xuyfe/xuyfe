@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🛠️ I’m currently working on Endeavor México as a Data & Analytics Engineer Fellow.
+- 🛠️ I’m currently working as a Data Support Specialist at the Yale Law School.
 - 📘 I’m a rising Junior majoring in Statistics & Data Science at Yale University.
 - 💡 I'm interested in learning about Applied Machine Learning.
 - 📫 How to reach me: xuliowen605@gmail.com
