@@ -3,7 +3,7 @@
 - 🛠️ I’m currently working as a Data Support Specialist at the Yale Law School, and as a RA for the Yale Sociology Department.
 - 👨‍🎓 I’m a rising Junior majoring in Statistics & Data Science and Economics at Yale University.
 - 💡 I'm interested in learning about Applied Machine Learning.
-- 📘 Certificates: Python Fundamentals (DataCamp) 
+- 🏆 Certificates: Python Fundamentals (DataCamp) 
 - 📖 Currently reading: Anna Karenina by Leo Tolstoy.
 - 📫 How to reach me: xuoyifei@outlook.com.
 
