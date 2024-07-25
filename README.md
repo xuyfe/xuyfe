@@ -4,7 +4,7 @@
 - 👨‍🎓 I’m a rising Junior majoring in Statistics & Data Science and Economics at Yale University.
 - 💡 I'm interested in learning about Applied Machine Learning.
 - 🏆 Certificates: Data Scientist Associate with Python (DataCamp)
-- 📖 Currently reading: Anna Karenina by Leo Tolstoy.
+- 📖 Currently reading: Babel by R.F. Kuang.
 - 📫 How to reach me: xuoyifei@outlook.com.
 
 <!--
