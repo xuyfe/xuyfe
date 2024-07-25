@@ -5,7 +5,7 @@
 - 💡 I'm interested in learning about Applied Machine Learning.
 - 🏆 Certificates: Data Scientist Associate with Python (DataCamp)
 - 📖 Currently reading: Babel by R.F. Kuang.
-- 📫 How to reach me: xuoyifei@outlook.com.
+- 📫 How to reach me: owen.xuli@yale.edu
 
 <!--
 **owenxuli/owenxuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
