@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🛠️ I’m currently working as a Data Support Specialist at the Yale Law School, and as a RA for the Yale Sociology Department.
-- 👨‍🎓 I’m a rising Junior majoring in Statistics & Data Science and Economics at Yale University.
-- 💡 I'm interested in learning about Applied Machine Learning.
+- 🛠️ Data Support Specialist at the Yale Law School, and RA for the Yale Sociology Department.
+- 👨‍🎓 Junior majoring in Statistics & Data Science and Economics at Yale University.
+- 👨‍🏫 Undergraduate Teaching Assistant for Introductory Statistics, Fall 2024.
 - 🏆 Certificates: Data Scientist Associate with Python (DataCamp)
 - 📖 Currently reading: Babel by R.F. Kuang.
 - 📫 How to reach me: owen.xuli@yale.edu
