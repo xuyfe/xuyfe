@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🛠️ Research at the Yale Tobin Center for Economic Policy for Prof. Karen Seto.
-- 👨‍🎓 Junior majoring in Statistics & Data Science and Economics at Yale University.
+- 🛠️ Research at the Yale Vision Lab.
+- 👨‍🎓 Senior majoring in Statistics & Data Science and Economics at Yale University.
 - 🏆 Certificates: Data Scientist Associate with Python (DataCamp)
 - 📖 Currently reading: Babel by R.F. Kuang.
 - 📫 How to reach me: owen.xuli@yale.edu
