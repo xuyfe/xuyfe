@@ -3,7 +3,6 @@
 - 🛠️ Research at the Yale Vision Lab.
 - 👨‍🎓 Senior majoring in Statistics & Data Science and Economics at Yale University.
 - 🏆 Certificates: Data Scientist Associate with Python (DataCamp)
-- 📖 Currently reading: Babel by R.F. Kuang.
 - 📫 How to reach me: owen.xuli@yale.edu
 
 <!--
